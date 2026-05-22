@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "toplumsal-fren-sistemleri"
+version = "0.1.0"
+description = "Minimal societal braking simulation and infrastructure"
+authors = [ { name="Repo Owner" } ]
+readme = "README.md"
+requires-python = ">=3.8"
