@@ -3,7 +3,7 @@
 Kısa açıklama
 ----------------
 
-Bu proje, basit bir "toplumsal fren" (social braking) modelini ve simülasyon iskeletini içerir. Amaç, bireylerin/araçların öndeki birime çok yakınlaştığında nasıl hız azalttığını gösteren bir deneysel altyapı sağlamaktır.
+Bu proje, basit bir "toplumsal fren" (social braking) modelini ve simülasyon iskeletini içerir. Amaç, bireylerin/araçların öndeki birime çok yakınlaştığında nasıl hız azalttığını gösteren deneysel bir altyapı sağlamaktır.
 
 Neden?
 ------
@@ -13,7 +13,7 @@ Toplumsal fren davranışı; trafik, yaya hareketleri ve toplumsal etkileşim mo
 Öne çıkan özellikler
 --------------------
 
-- Basit 1D agent-temelli fren modeli (`toplumsal_fren_sistemleri.core`).
+- Basit 1D ajan-temelli fren modeli (`toplumsal_fren_sistemleri.core`).
 - Örnek çalıştırıcı: `run_simulation.py`
 - Birim testleri: `tests/test_core.py`
 
@@ -46,20 +46,22 @@ python -m unittest discover -v tests
 Örnek çıktı
 -----------
 
-run_simulation.py, her adım için ajan hızlarının kısa bir özetini yazdırır. Bu, modelin takip edenlerin yakınlaştıkça yavaşladığını göstermeye yöneliktir.
+`run_simulation.py`, her adım için ajan hızlarının kısa bir özetini yazdırır. Bu, modelin takip edenlerin yakınlaştıkça yavaşladığını göstermeye yöneliktir.
 
 Alıntılar ve ilham kaynakları
 ----------------------------
 
-Bu proje fikir aşamasındadır; aşağıdaki kısa alıntılar ve kaynaklar projenin arka planını özetlemek için eklendi.
+Aşağıdaki kısa alıntılar proje fikirlerini ve ilham kaynaklarını vurgular:
 
-- "Bireylerin davranışları toplumsal etkileşimler tarafından şekillenir." — (ilham)
-- "Güvenli mesafe, akıcı ve güvenli trafik akışı için kritiktir." — (ilham)
-- "Agent tabanlı modeller, mikro davranışların makro örüntülere nasıl dönüştüğünü gösterir." — (ilham)
+- "Bireylerin davranışları, toplumsal etkileşimler tarafından şekillenir." — Sosyal davranış paradigması
+- "Güvenli mesafe, akıcı ve güvenli trafik akışı için kritiktir." — Trafik güvenliği ilkesi
+- "Ajan-tabanlı modeller, mikro davranışların makro örüntülere dönüşümünü gösterir." — Modelleme yaklaşımı
 
 Önerilen okuma / kaynaklar
-- Treiber, M., & Kesting, A. — Trafik ve toplumsal hareket modelleri üzerine dersler (çeşitli kaynaklar).
-- Agent-based modeling kaynakları ve literatür taramaları (örnek: agent-based modelling literature reviews).
+-------------------------
+
+- Treiber, M., & Kesting, A. — Trafik akışı ve araç dinamiği üzerine çalışmalar.
+- Agent-based modelling literature reviews — agent tabanlı modelleme girişleri ve incelemeleri.
 
 Katkıda bulunma
 ---------------
@@ -69,7 +71,7 @@ Katkılar memnuniyetle karşılanır. Yeni özellikler, görselleştirme, gerçe
 Lisans
 ------
 
-Bu proje açık kaynaklıdır; lisans olarak `MIT` veya depo sahibinin tercih ettiği başka bir lisans seçilebilir.
+Bu proje açık kaynaklıdır; lisans olarak `MIT` veya depo sahibinin tercih ettiği başka bir lisans eklenebilir.
 
 İletişim
 --------
