@@ -1,0 +1,2 @@
+# No external runtime dependencies required for the minimal example
+# Add dependencies here if you expand the project (e.g. numpy, matplotlib)
