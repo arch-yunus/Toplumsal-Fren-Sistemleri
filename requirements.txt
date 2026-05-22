@@ -1,2 +1,4 @@
-# No external runtime dependencies required for the minimal example
-# Add dependencies here if you expand the project (e.g. numpy, matplotlib)
+# Runtime dependencies for extended features
+matplotlib>=3.0
+
+# Add more dependencies as project expands (e.g. numpy, pandas)
