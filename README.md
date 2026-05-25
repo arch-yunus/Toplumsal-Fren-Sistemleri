@@ -1,9 +1,15 @@
-
+![Toplumsal Fren Sistemleri Banner](banner.png)
 
 # 🏛️ Toplumsal Fren Sistemleri (Societal Braking Systems): Söğüt Ruhu
 
 > *"İnsanlar yasalarla yönetilmezler, insanlar ahlakla yönetilirler. Asıl olan hukukiliği aşan bir helalleşme ve ayıp kavramıdır. Her yasal olan helal değildir, her helal olan da ahlaki (ayıp dışı) değildir."*
 > **— Alev Alatlı**
+
+> *"Ağaç kökünden, millet kültüründen beslenir. Kökü kuruyan ağaç nasıl devrilirse, kültürünü kaybeden millet de öyle yıkılır."*
+> **— Cemil Meriç**
+
+> *"Akıl bir vezir, gönül ise bir padişahtır. Padişahın onayı olmadan vezirin aldığı kararlar devleti ayakta tutmaya yetmez."*
+> **— İmam Gazali**
 
 > *"Girdim ilim meclisine, eyledim kıldım talep. Dediler ilim geride, illa edep illa edep."*
 > **— Yunus Emre**
@@ -83,6 +89,10 @@ Ayıp kavramı insanları ezmek, farklılıkları boğmak veya ötekileştirmek 
 ### 3. Dijital Fütüvvet (Siber Etik) Standartlarının İnşası
 
 Algoritmaların kavgayı ve gösterişi ödüllendirdiği bu çağda, "Dijital Edep" kavramı bir müfredat olarak işlenmelidir. Sanal alemde de kul hakkı olduğu, ekranın ardındakinin bir insan kalbi olduğu bilinci "yeni nesil ayıp" algısına entegre edilmelidir.
+
+### 4. Modernitenin Çıkmazına Karşı 'Gönül Medeniyeti'
+
+Bireyciliğin yüceltildiği, toplumsal bağların zayıfladığı günümüzde, insanın yalnızlaşma krizine karşı Ahilik ve Fütüvvet gibi birleştirici mekanizmalar modernize edilerek yeniden canlandırılmalıdır. Sistem yalnızca "ben" üzerine değil, "biz" bilinci ve "diğerkâmlık" (özgecilik) üzerine bina edildiğinde kalıcı olabilir.
 
 ---
 
